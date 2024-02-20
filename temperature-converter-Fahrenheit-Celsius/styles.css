@@ -1,0 +1,19 @@
+.converter {
+    width: 200px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 96%;
+    margin-bottom: 15px;
+}
+
+button {
+    padding: 10px;
+    font-size: 18px;
+}
+
+p {
+    font-size: 20px;
+}
