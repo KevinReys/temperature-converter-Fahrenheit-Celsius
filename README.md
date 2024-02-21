@@ -21,3 +21,6 @@ Se você gostaria de contribuir com melhorias para este conversor de temperatura
 3. Faça commit de suas alterações (`git commit -am 'Adicionando funcionalidade X'`);
 4. Faça push para a branch (`git push origin minha-contribuicao`);
 5. Abra uma solicitação de pull request.
+
+## Autor
+Este projeto foi desenvolvido por Kevin Reys.
