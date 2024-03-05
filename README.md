@@ -1,26 +1,25 @@
-# Conversor de Temperatura Fahrenheit para Celsius
+# Fahrenheit to Celsius Temperature Converter
+This is a DEMO temperature converter project implemented in JavaScript that converts temperatures from Fahrenheit to Celsius.
 
-Este é um projeto DEMO conversor de temperatura implementado em JavaScript que converte temperaturas de Celsius para Fahrenheit.
+## How to Use
+1. Clone or download this repository to your computer.
+2. Open the `index.html` file in your web browser.
+3. Enter the temperature in Celsius in the input field.
+4. Click the "Convert" button.
+5. The converted temperature will be displayed below the button.
 
-## Como usar
-1. Clone ou baixe este repositório para o seu computador;
-2. Abra o arquivo `index.html` em seu navegador;
-3. Insira a temperatura em Celsius no campo de entrada;
-4. Clique no botão "Converter";
-5. A temperatura convertida será exibida abaixo do botão.
+## Features
+- Accurate conversion of temperatures from Celsius to Fahrenheit.
+- Simple and user-friendly interface.
+- Support for various modern browsers.
 
-## Recursos
-- Conversão precisa de temperaturas de Celsius para Fahrenheit;
-- Interface simples e fácil de usar;
-- Suporte a diferentes navegadores modernos.
+## How to Contribute
+If you would like to contribute improvements to this temperature converter, you can follow these steps:
+1. Fork this repository.
+2. Create a branch for your changes (`git checkout -b my-contribution`).
+3. Commit your changes (`git commit -am 'Adding feature X'`).
+4. Push to the branch (`git push origin my-contribution`).
+5. Open a pull request.
 
-## Como contribuir
-Se você gostaria de contribuir com melhorias para este conversor de temperatura, você pode seguir estas etapas:
-1. Faça um fork deste repositório;
-2. Crie uma branch para suas alterações (`git checkout -b minha-contribuicao`);
-3. Faça commit de suas alterações (`git commit -am 'Adicionando funcionalidade X'`);
-4. Faça push para a branch (`git push origin minha-contribuicao`);
-5. Abra uma solicitação de pull request.
-
-## Autor
-Este projeto foi desenvolvido por Kevin Reys.
+## Author
+This project was developed by Kevin Reys.
